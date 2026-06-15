@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "posseder-les-mains"
+abstract: "Sovereign infrastructures for AI-assisted creation. Posséder les mains, louer le cerveau / Own the hands, rent the brain. Manifeste + guide, FR/EN."
+type: dataset
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/posseder-les-mains"
+url: "https://github.com/12georgiadis/posseder-les-mains"
+license: CC-BY-NC-ND-4.0
