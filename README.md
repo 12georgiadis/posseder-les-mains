@@ -15,4 +15,4 @@
 
 *Ismaël Joffroy Chandoutis, cinéaste et artiste / filmmaker and artist.*
 *Contact : contact@ismaeljoffroychandoutis.com*
-*Licence : [CC BY-SA 4.0](LICENSE)*
+*Licence : [CC BY-SA 4.0](LICENSE.md)*
