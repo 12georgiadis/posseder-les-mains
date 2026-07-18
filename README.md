@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Posséder les mains" width="100%">
+
 # Posséder les mains, louer le cerveau
 ### Own the hands, rent the brain
 
