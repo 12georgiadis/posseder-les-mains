@@ -1,6 +1,8 @@
+**English** · [Français](GUIDE.md) · [Manifesto](README.md)
+
 # Field guide: building an AI creation infrastructure for a residency or studio
 
-*A generic blueprint, drawn from two real setups built for CNC-supported creative residencies. The figures are 2026 orders of magnitude: pin them down again before any decision. Companion to the [Manifesto](MANIFESTO.md).*
+*A generic blueprint, drawn from two real setups built for CNC-supported creative residencies. The figures are 2026 orders of magnitude: pin them down again before any decision. Companion to the [Manifesto](README.md).*
 
 ## 1. The principles that decide everything
 

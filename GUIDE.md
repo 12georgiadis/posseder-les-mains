@@ -1,6 +1,8 @@
+[English](GUIDE_EN.md) · **Français** · [Manifeste](README.fr.md)
+
 # Guide : monter une infrastructure de création IA pour une résidence ou un studio
 
-*Blueprint générique, issu de deux dispositifs réels mis en place pour des résidences de création soutenues par le CNC. Les chiffres sont des ordres de grandeur datés (2026), à refiger avant toute décision. Compagnon du [Manifeste](MANIFESTE.md).*
+*Blueprint générique, issu de deux dispositifs réels mis en place pour des résidences de création soutenues par le CNC. Les chiffres sont des ordres de grandeur datés (2026), à refiger avant toute décision. Compagnon du [Manifeste](README.fr.md).*
 
 ## 1. Les principes qui décident de tout
 
