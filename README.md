@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Own the hands, rent the brain" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner.svg"><img src="banner-light.svg" alt="Own the hands, rent the brain" width="100%"></picture>
 
 **English** · [Français](README.fr.md)
 

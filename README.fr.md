@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Posséder les mains, louer le cerveau" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="banner.svg"><img src="banner-light.svg" alt="Posséder les mains, louer le cerveau" width="100%"></picture>
 
 **Français** · [English](README.md)
 
